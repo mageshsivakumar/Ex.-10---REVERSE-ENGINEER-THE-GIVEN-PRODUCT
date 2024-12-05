@@ -33,10 +33,13 @@
 ## Input:
 
 ### Output:
+![WhatsApp Image 2024-12-04 at 21 17 36_9de58a82](https://github.com/user-attachments/assets/50eae18f-9a83-448f-a64f-2c9da9ed5fcb)
+![WhatsApp Image 2024-12-04 at 21 17 55_ecf3ac38](https://github.com/user-attachments/assets/d1b86482-ce34-4807-a88d-451393ca116f)
+![WhatsApp Image 2024-12-04 at 21 18 11_11e8d064](https://github.com/user-attachments/assets/cdd71b77-2b63-4d3f-867f-fa281fec2c08)
 
 
-### Name:
-### Register Number:
+### Name:Magesh S
+### Register Number:24900241
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
